@@ -1,5 +1,7 @@
 import socket
 import pyodbc
+import screen as screen
+
 global cnxn
 global cursor
 import tkinter
